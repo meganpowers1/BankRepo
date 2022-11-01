@@ -39,7 +39,7 @@
 
     <repository>
       <id>github</id>
-      <name>GitHub OWNER Apache Maven Packages</name>
+      <name>BankRepo</name>
       <url>https://maven.pkg.github.com/meganpowers1/BankRepo</url>
     </repository>
   </distributionManagement>
